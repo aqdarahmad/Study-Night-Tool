@@ -11,7 +11,7 @@
     "gulp": "gulp",
     "gulp:test": "gulp test"
   },
-  "author": "Ghaida Ja'aysah",
+  "author": "Aqdar Ahmad",
   "license": "MIT",
   "dependencies": {
     "selenium-webdriver": "^4.33.0"
