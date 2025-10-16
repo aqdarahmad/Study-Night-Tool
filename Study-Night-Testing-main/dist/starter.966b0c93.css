@@ -1,0 +1,18 @@
+body header {
+  cursor: pointer;
+  width: 100px;
+}
+
+body header h1, nav li {
+  text-transform: uppercase;
+}
+
+body header nav li {
+  border-bottom: 2px solid #d3d3d3;
+  margin: 10% 5%;
+}
+
+body header nav li:hover {
+  border-bottom-color: #45e9f5;
+}
+/*# sourceMappingURL=starter.966b0c93.css.map */

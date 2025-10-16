@@ -1,0 +1,25 @@
+{
+  "name": "selenium-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This my package",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp",
+    "gulp:test": "gulp test"
+  },
+  "author": "Ghaida Ja'aysah",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.33.0"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.1",
+    "gulp-cli": "^3.1.0",
+    "gulp-shell": "^0.8.0",
+    "parcel": "^2.15.4"
+  }
+}
